@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atensuli.github.io/sitemap.html.gz
+Sitemap: https://atensuli.github.io/app/sitemap.html.gz
+Sitemap: https://atensuli.github.io/assets/sitemap.html.gz
+Sitemap: https://atensuli.github.io/css/sitemap.html.gz
+Sitemap: https://atensuli.github.io/includes/sitemap.html.gz
+Sitemap: https://atensuli.github.io/item/sitemap.html.gz
+Sitemap: https://atensuli.github.io/src/sitemap.html.gz
